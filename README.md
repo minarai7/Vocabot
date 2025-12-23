@@ -1,6 +1,6 @@
 # Vocabulary.com CLI Scraper / Vocabot
 
-英語辞書サイト Vocabulary.com をスクレイピングし、単語情報をローカル辞書（JSON）として保存・復習できる
+英語辞書サイト [Vocabulary.com](https://www.vocabulary.com/) をスクレイピングし、単語情報をローカル辞書（JSON）として保存・復習できる
 Python製 CLI ツールです。
 本リポジトリは約6年前の個人制作（アーカイブ）です。現在は主に電気電子分野の学習・研究が中心ですが、当時この開発を通して「要件分解→実装→動作確認→運用」の一連を自走した経験があります。
 
